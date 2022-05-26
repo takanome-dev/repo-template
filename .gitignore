@@ -4,6 +4,9 @@ node_modules/
 # tests coverage
 coverage/
 
+# vscode settings
+.vscode/
+
 # misc
 .env
 .env.local
