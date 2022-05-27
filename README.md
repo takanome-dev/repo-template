@@ -33,9 +33,9 @@ npm install
 This project welcomes contributions and suggestions.
 Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for more information.
 
-## ⚖️ LICENCE
+## ⚖️ LICENSE
 
-The scripts and documentation in this project are released under the [YOUR_LICENCE](#️-licence)
+The scripts and documentation in this project are released under the [YOUR_LICENSE](#️-license)
 
 ## 📫 Contact
 
