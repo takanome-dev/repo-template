@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://github.com/TAKANOME-DEV/repo-template"><img alt="Licence Badge" src="https://img.shields.io/github/license/TAKANOME-DEV/repo-template?color=%2330C151"></a></p>
 
-> _Your documentation is a direct reflection of your software, so hold it to the same standards._
+> **Note** Your documentation is a direct reflection of your software, so hold it to the same standards.
 >
 > See more [README TEMPLATE HERE](https://github.com/banesullivan/README/blob/main/TEMPLATE.md)
 
