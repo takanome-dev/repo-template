@@ -1,11 +1,8 @@
 name: Assign To Me Action
 
 on:
-  schedule:
-    - cron: 0 0 * * *
   issue_comment:
     types: [created]
-  workflow_dispatch:
 
 jobs:
   assign:
